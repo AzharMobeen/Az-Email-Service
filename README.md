@@ -9,6 +9,7 @@ send emails to requested receiver email address.
 * Apache FreeMarker
 * SpringDoc-OpenAPI
 * Java-Mail-Sender
+* BootStrap
 
 > How to run
 * Windows
