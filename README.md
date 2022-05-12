@@ -30,3 +30,6 @@ http://localhost:8080/swagger-ui/index.html
 > Note for Google Password
 * It's not good to store your password in the properties you can generate temporary password for specific apps
 * Please [check this](https://support.google.com/accounts/answer/185833?visit_id=637879398097578861-2133560723&p=InvalidSecondFactor&rd=1)
+
+> Output:
+![email](emailScreenShot.jpg)
