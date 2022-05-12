@@ -1,0 +1,17 @@
+spring:
+# IT's a default path even if we don't define it will load all the ftl files from below path
+  #freemarker:
+    #template-loader-path: classpath:/templates
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: <your gmail>
+    password: <your gmail password something like zilmracvwqwxrdvmaz>
+    test-connection: false
+    protocol: smtp
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
