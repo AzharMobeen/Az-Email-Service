@@ -3,6 +3,13 @@
 send emails to requested receiver email address.
 * Important point is: We'll use `Apache FreeMarker` template engine for emails.
 
+> Technologies:
+* Java 8
+* Spring boot
+* Apache FreeMarker
+* SpringDoc-OpenAPI
+* Java-Mail-Sender
+
 > How to run
 * Windows
 ```
@@ -19,13 +26,6 @@ send emails to requested receiver email address.
 http://localhost:8080/swagger-ui/index.html
 ```
 * All the endpoint available there
-
-> Technologies:
-* Java 8
-* Spring boot
-* Apache FreeMarker
-* SpringDoc-OpenAPI
-* Java-Mail-Sender
 
 > Note for Google Password
 * It's not good to store your password in the properties you can generate temporary password for specific apps
